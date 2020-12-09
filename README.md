@@ -40,6 +40,9 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Notepad++ no Xubuntu com PlayOnLinux](https://www.youtube.com/watch?v=0b2zZV4OcUY)
+- [Docker para teste rápido](https://www.youtube.com/watch?v=ulpNlxgo7Tw)
+- [Francisco Chaves - Tecnologia com bits codificados](https://www.youtube.com/watch?v=5vvjT2IVkok)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/channel/UCuv8zD3yTjSRlJYLUUqY2_A)
