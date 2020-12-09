@@ -35,9 +35,20 @@
 <br />
 <br />
 
+---
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://franciscochaves.com.br)
+
+---
+
 [website]: https://franciscochaves.com.br
 [twitter]: https://twitter.com/fr_develop
 [youtube]: https://youtube.com/channel/UCuv8zD3yTjSRlJYLUUqY2_A
 [instagram]: https://instagram.com/francisco.jschaves
 [linkedin]: https://www.linkedin.com/in/chavesfrancisco
-[image-name-franciscochaves-rocket]:franciscochaves-github.gif
+[image-name-franciscochaves-rocket]: franciscochaves-github.gif
