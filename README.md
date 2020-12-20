@@ -52,11 +52,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [http-server servidor leve e rápido](https://franciscochaves.com.br/blog/http-server-servidor-leve-e-rapido)
 - [Esteganografia com Steghide](https://franciscochaves.com.br/blog/esteganografia-com-steghide)
 - [Erro ao acessar pasta compartilhada no VirtualBox](https://franciscochaves.com.br/blog/erro-ao-acessar-pasta-compartilhada-no-virtualbox)
 - [Instale Notepad++ no Xubuntu com PlayOnLinux](https://franciscochaves.com.br/blog/instale-notepad-plus-plus-no-xubuntu-com-playonlinux)
 - [Instale o SQL Power Architect no Ubuntu](https://franciscochaves.com.br/blog/instale-o-sql-power-architect-no-ubuntu)
-- [Redirecione domínio web com Node.js](https://franciscochaves.com.br/blog/redirecione-dominio-com-nodejs)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://franciscochaves.com.br)
