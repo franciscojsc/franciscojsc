@@ -53,11 +53,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [BC a calculadora do Bash](https://franciscochaves.com.br/blog/bc-a-calculadora-do-bash)
 - [Tire PrintScreen pelo terminal no Linux](https://franciscochaves.com.br/blog/tire-printscreen-pelo-terminal-no-linux)
 - [Como Bloquear sites indesejáveis no Linux](https://franciscochaves.com.br/blog/como-bloquear-sites-indesejaveis-no-linux)
 - [Configure um domínio local para desenvolvimento web](https://franciscochaves.com.br/blog/configure-um-dominio-local-para-desenvolvimento-web)
 - [http-server servidor leve e rápido](https://franciscochaves.com.br/blog/http-server-servidor-leve-e-rapido)
-- [Esteganografia com Steghide](https://franciscochaves.com.br/blog/esteganografia-com-steghide)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://franciscochaves.com.br)
