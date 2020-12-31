@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=franciscochaves.com.br&style=for-the-badge&url=https://franciscochaves.com.br)](https://franciscochaves.com.br)
 [![Twitter Follow](https://img.shields.io/twitter/follow/fr_develop?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/franciscojsc&screen_name=fr_develop)
 
-![Francisco Chaves][image-name-franciscochaves-rocket]
+[![Francisco Chaves][image-franciscochaves]][website]
 
 ### Connect with me:
 
@@ -69,4 +69,4 @@
 [youtube]: https://youtube.com/channel/UCuv8zD3yTjSRlJYLUUqY2_A
 [instagram]: https://instagram.com/francisco.jschaves
 [linkedin]: https://www.linkedin.com/in/chavesfrancisco
-[image-name-franciscochaves-rocket]: franciscochaves-github.gif
+[image-franciscochaves]: franciscochaves-github.png
