@@ -69,6 +69,9 @@ These are my latest posts on my [Blog][website] and [Dev.to][dev.to]:
 ### Dev Community
 
 <!-- DEVTO:START -->
+- [Baixe a ISO do Ubuntu Minimal 20.04](https://dev.to/franciscochaves/baixe-a-iso-do-ubuntu-minimal-20-04-1ae3)
+- [Estrutura básica do HTML](https://dev.to/franciscochaves/estrutura-basica-do-html-2963)
+- [Introdução ao HTML](https://dev.to/franciscochaves/introducao-ao-html-doa)
 <!-- DEVTO:END -->
 
 ➡️ [more dev.to posts...][dev.to]
