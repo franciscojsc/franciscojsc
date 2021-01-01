@@ -1,11 +1,11 @@
-### Hi there <a href="https://franciscochaves.com.br"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+## Hi there <a href="https://franciscochaves.com.br"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 [![Website](https://img.shields.io/website?label=franciscochaves.com.br&style=for-the-badge&url=https://franciscochaves.com.br)](https://franciscochaves.com.br)
 [![Twitter Follow](https://img.shields.io/twitter/follow/fr_develop?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/franciscojsc&screen_name=fr_develop)
 
 [![Francisco Chaves][image-franciscochaves]][website]
 
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt="franciscochaves.com.br" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Francisco Chaves | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -15,7 +15,7 @@
 
 <br />
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -37,30 +37,32 @@
 
 ---
 
-### 📺 Latest YouTube Videos
+## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [http-server servidor leve e rápido](https://www.youtube.com/watch?v=mAaONs2E4V4)
-- [Notepad++ no Xubuntu com PlayOnLinux](https://www.youtube.com/watch?v=0b2zZV4OcUY)
-- [Docker para teste rápido](https://www.youtube.com/watch?v=ulpNlxgo7Tw)
-- [Francisco Chaves - Tecnologia com bits codificados](https://www.youtube.com/watch?v=5vvjT2IVkok)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/channel/UCuv8zD3yTjSRlJYLUUqY2_A)
+➡️ [more videos...][youtube]
 
 ---
 
-### 📕 Latest Blog Posts
+## 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Copie e Cole pelo terminal com Xclip](https://franciscochaves.com.br/blog/copie-e-cole-pelo-terminal-com-xclip)
-- [BC a calculadora do Bash](https://franciscochaves.com.br/blog/bc-a-calculadora-do-bash)
-- [Tire PrintScreen pelo terminal no Linux](https://franciscochaves.com.br/blog/tire-printscreen-pelo-terminal-no-linux)
-- [Como Bloquear sites indesejáveis no Linux](https://franciscochaves.com.br/blog/como-bloquear-sites-indesejaveis-no-linux)
-- [Configure um domínio local para desenvolvimento web](https://franciscochaves.com.br/blog/configure-um-dominio-local-para-desenvolvimento-web)
-<!-- BLOG-POST-LIST:END -->
+These are my latest posts on my [Blog][website] and [Dev.to][dev.to]:
 
-➡️ [more blog posts...](https://franciscochaves.com.br)
+### My Blog
+
+<!-- BLOG:START -->
+<!-- BLOG:END -->
+
+➡️ [more blog posts...][website]
+
+### Dev Community
+
+<!-- DEVTO:START -->
+<!-- DEVTO:END -->
+
+➡️ [more dev.to posts...][dev.to]
 
 ---
 
@@ -69,4 +71,5 @@
 [youtube]: https://youtube.com/channel/UCuv8zD3yTjSRlJYLUUqY2_A
 [instagram]: https://instagram.com/francisco.jschaves
 [linkedin]: https://www.linkedin.com/in/chavesfrancisco
+[dev.to]: https://dev.to/franciscochaves
 [image-franciscochaves]: franciscochaves-github.png
