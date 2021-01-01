@@ -57,6 +57,11 @@ These are my latest posts on my [Blog][website] and [Dev.to][dev.to]:
 ### My Blog
 
 <!-- BLOG:START -->
+- [Copie e Cole pelo terminal com Xclip](https://franciscochaves.com.br/blog/copie-e-cole-pelo-terminal-com-xclip)
+- [BC a calculadora do Bash](https://franciscochaves.com.br/blog/bc-a-calculadora-do-bash)
+- [Tire PrintScreen pelo terminal no Linux](https://franciscochaves.com.br/blog/tire-printscreen-pelo-terminal-no-linux)
+- [Como Bloquear sites indesejáveis no Linux](https://franciscochaves.com.br/blog/como-bloquear-sites-indesejaveis-no-linux)
+- [Configure um domínio local para desenvolvimento web](https://franciscochaves.com.br/blog/configure-um-dominio-local-para-desenvolvimento-web)
 <!-- BLOG:END -->
 
 ➡️ [more blog posts...][website]
