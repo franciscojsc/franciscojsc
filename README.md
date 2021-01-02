@@ -69,6 +69,11 @@ These are my latest posts on my [Blog][website], [Projeto Kube][projetokube] and
 ### Projeto KUBE
 
 <!-- PROJETOKUBE:START -->
+- [Instalação do Raspberry Pi OS](/projetokube-site/blog/tutoriais/2020/instalacao-raspberry-pi-os-07-17.html)
+- [Instalação do NodeJS](/projetokube-site/blog/tutoriais/2020/como-instalar-nodejs-01-19.html)
+- [Coletando a temperatura no Raspberry PI 3 B Plus](/projetokube-site/blog/linux/tutoriais/2020/temperatura-no-raspberry-01-19.html)
+- [Execução do Jekyll em container Docker](/projetokube-site/blog/linux/tutoriais/2020/como-executar-jekyll-em-container-docker-01-17.html)
+- [Instalação do VNC Server no Raspberry PI 3](/projetokube-site/blog/linux/tutoriais/2020/instale-vnc-em-raspberry-pi-01-17.html)
 <!-- PROJETOKUBE:END -->
 
 ➡️ [more **Projeto Kube** posts...][projetokube]
