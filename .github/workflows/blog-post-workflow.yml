@@ -19,3 +19,8 @@ jobs:
         with:
           comment_tag_name: DEVTO
           feed_list: 'https://dev.to/feed/franciscochaves'
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: PROJETOKUBE
+          feed_list: 'https://cbsiifslagarto.github.io/projetokube-site/atom.xml'
+          item_exec: "if (post.author.name.indexOf('franciscojsc') < 0) post = null;"

@@ -52,7 +52,7 @@
 
 ## 📕 Latest Blog Posts
 
-These are my latest posts on my [Blog][website] and [Dev.to][dev.to]:
+These are my latest posts on my [Blog][website], [Projeto Kube][projetokube] and [Dev.to][dev.to]:
 
 ### My Blog
 
@@ -64,7 +64,14 @@ These are my latest posts on my [Blog][website] and [Dev.to][dev.to]:
 - [Configure um domínio local para desenvolvimento web](https://franciscochaves.com.br/blog/configure-um-dominio-local-para-desenvolvimento-web)
 <!-- BLOG:END -->
 
-➡️ [more blog posts...][website]
+➡️ [more **blog** posts...][website]
+
+### Projeto KUBE
+
+<!-- PROJETOKUBE:START -->
+<!-- PROJETOKUBE:END -->
+
+➡️ [more **Projeto Kube** posts...][projetokube]
 
 ### Dev Community
 
@@ -75,7 +82,7 @@ These are my latest posts on my [Blog][website] and [Dev.to][dev.to]:
 - [Introdução ao HTML](https://dev.to/franciscochaves/introducao-ao-html-doa)
 <!-- DEVTO:END -->
 
-➡️ [more dev.to posts...][dev.to]
+➡️ [more **dev.to** posts...][dev.to]
 
 ---
 
@@ -85,4 +92,6 @@ These are my latest posts on my [Blog][website] and [Dev.to][dev.to]:
 [instagram]: https://instagram.com/francisco.jschaves
 [linkedin]: https://www.linkedin.com/in/chavesfrancisco
 [dev.to]: https://dev.to/franciscochaves
+[projetokube]: https://cbsiifslagarto.github.io/projetokube-site/blog/
 [image-franciscochaves]: franciscochaves-github.png
+
