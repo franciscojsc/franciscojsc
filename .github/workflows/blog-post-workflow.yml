@@ -23,4 +23,4 @@ jobs:
         with:
           comment_tag_name: PROJETOKUBE
           feed_list: 'https://cbsiifslagarto.github.io/projetokube-site/atom.xml'
-          item_exec: "if (post.author != 'franciscojsc') post = null; console.log(post)"
+          item_exec: " console.log(post); if (post.author != '[franciscojsc]') post = null;"
