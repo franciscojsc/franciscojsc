@@ -81,11 +81,11 @@ These are my latest posts on my [Blog][website], [Projeto Kube][projetokube] and
 ### Dev Community
 
 <!-- DEVTO:START -->
+- [Imagens no HTML](https://dev.to/franciscochaves/imagens-no-html-2lg2)
 - [Títulos em HTML](https://dev.to/franciscochaves/titulos-em-html-2ld2)
 - [Formatação de moedas em JavaScript](https://dev.to/franciscochaves/formatacao-de-moedas-em-javascript-1f96)
 - [Parágrafos em HTML](https://dev.to/franciscochaves/paragrafos-em-html-ck4)
 - [Baixe a ISO do Ubuntu Minimal 20.04](https://dev.to/franciscochaves/baixe-a-iso-do-ubuntu-minimal-20-04-1ae3)
-- [Estrutura básica do HTML](https://dev.to/franciscochaves/estrutura-basica-do-html-2963)
 <!-- DEVTO:END -->
 
 ➡️ [more **dev.to** posts...][dev.to]
