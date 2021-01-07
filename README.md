@@ -81,11 +81,11 @@ These are my latest posts on my [Blog][website], [Projeto Kube][projetokube] and
 ### Dev Community
 
 <!-- DEVTO:START -->
+- [if on the command line](https://dev.to/franciscochaves/if-on-the-command-line-2dd0)
 - [Informações do seu hardware com Linux](https://dev.to/franciscochaves/informacoes-do-seu-hardware-com-linux-n4a)
 - [Imagens no HTML](https://dev.to/franciscochaves/imagens-no-html-2lg2)
 - [Títulos em HTML](https://dev.to/franciscochaves/titulos-em-html-2ld2)
 - [Formatação de moedas em JavaScript](https://dev.to/franciscochaves/formatacao-de-moedas-em-javascript-1f96)
-- [Parágrafos em HTML](https://dev.to/franciscochaves/paragrafos-em-html-ck4)
 <!-- DEVTO:END -->
 
 ➡️ [more **dev.to** posts...][dev.to]
