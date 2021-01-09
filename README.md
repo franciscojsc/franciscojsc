@@ -81,11 +81,11 @@ These are my latest posts on my [Blog][website], [Projeto Kube][projetokube] and
 ### Dev Community
 
 <!-- DEVTO:START -->
+- [Redirecionamento automático de página HTML](https://dev.to/franciscochaves/redirecionamento-automatico-de-pagina-html-4aaj)
 - [Atualização automática de  página HTML](https://dev.to/franciscochaves/atualizacao-automatica-de-pagina-html-36jd)
 - [Links em HTML](https://dev.to/franciscochaves/links-em-html-10a9)
 - [if on the command line](https://dev.to/franciscochaves/if-on-the-command-line-2dd0)
 - [Informações do seu hardware com Linux](https://dev.to/franciscochaves/informacoes-do-seu-hardware-com-linux-n4a)
-- [Imagens no HTML](https://dev.to/franciscochaves/imagens-no-html-2lg2)
 <!-- DEVTO:END -->
 
 ➡️ [more **dev.to** posts...][dev.to]
