@@ -81,11 +81,11 @@ These are my latest posts on my [Blog][website], [Projeto Kube][projetokube] and
 ### Dev Community
 
 <!-- DEVTO:START -->
+- [Inverter palavra com JavaScript](https://dev.to/franciscochaves/inverter-palavra-com-javascript-5com)
 - [Estruturas condicionais em JavaScript](https://dev.to/franciscochaves/estruturas-condicionais-em-javascript-53d)
 - [Redirecionamento automático de página HTML](https://dev.to/franciscochaves/redirecionamento-automatico-de-pagina-html-4aaj)
 - [Atualização automática de  página HTML](https://dev.to/franciscochaves/atualizacao-automatica-de-pagina-html-36jd)
 - [Links em HTML](https://dev.to/franciscochaves/links-em-html-10a9)
-- [if on the command line](https://dev.to/franciscochaves/if-on-the-command-line-2dd0)
 <!-- DEVTO:END -->
 
 ➡️ [more **dev.to** posts...][dev.to]
