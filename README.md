@@ -81,11 +81,11 @@ These are my latest posts on my [Blog][website], [Projeto Kube][projetokube] and
 ### Dev Community
 
 <!-- DEVTO:START -->
+- [Esteganografia com Steghide](https://dev.to/franciscochaves/esteganografia-com-steghide-1jc1)
 - [Instale Node.js no Xubuntu](https://dev.to/franciscochaves/instale-node-js-no-xubuntu-4hhj)
 - [Listas em HTML](https://dev.to/franciscochaves/listas-em-html-2j60)
 - [Inverter palavra com JavaScript](https://dev.to/franciscochaves/inverter-palavra-com-javascript-5com)
 - [Estruturas condicionais em JavaScript](https://dev.to/franciscochaves/estruturas-condicionais-em-javascript-53d)
-- [Redirecionamento automático de página HTML](https://dev.to/franciscochaves/redirecionamento-automatico-de-pagina-html-4aaj)
 <!-- DEVTO:END -->
 
 ➡️ [more **dev.to** posts...][dev.to]
