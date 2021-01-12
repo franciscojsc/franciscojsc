@@ -81,11 +81,11 @@ These are my latest posts on my [Blog][website], [Projeto Kube][projetokube] and
 ### Dev Community
 
 <!-- DEVTO:START -->
+- [Instale Node.js no Xubuntu](https://dev.to/franciscochaves/instale-node-js-no-xubuntu-4hhj)
 - [Listas em HTML](https://dev.to/franciscochaves/listas-em-html-2j60)
 - [Inverter palavra com JavaScript](https://dev.to/franciscochaves/inverter-palavra-com-javascript-5com)
 - [Estruturas condicionais em JavaScript](https://dev.to/franciscochaves/estruturas-condicionais-em-javascript-53d)
 - [Redirecionamento automático de página HTML](https://dev.to/franciscochaves/redirecionamento-automatico-de-pagina-html-4aaj)
-- [Atualização automática de  página HTML](https://dev.to/franciscochaves/atualizacao-automatica-de-pagina-html-36jd)
 <!-- DEVTO:END -->
 
 ➡️ [more **dev.to** posts...][dev.to]
