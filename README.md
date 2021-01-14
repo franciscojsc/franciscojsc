@@ -81,11 +81,11 @@ These are my latest posts on my [Blog][website], [Projeto Kube][projetokube] and
 ### Dev Community
 
 <!-- DEVTO:START -->
+- [Fatorial em Java](https://dev.to/franciscochaves/fatorial-em-java-242p)
 - [Tabela HTML com as cores das linhas alternadas](https://dev.to/franciscochaves/tabela-html-com-as-cores-das-linhas-alternadas-ac)
 - [Tabelas em HTML](https://dev.to/franciscochaves/tabelas-em-html-2b8k)
 - [Esteganografia com Steghide](https://dev.to/franciscochaves/esteganografia-com-steghide-1jc1)
 - [Instale Node.js no Xubuntu](https://dev.to/franciscochaves/instale-node-js-no-xubuntu-4hhj)
-- [Listas em HTML](https://dev.to/franciscochaves/listas-em-html-2j60)
 <!-- DEVTO:END -->
 
 ➡️ [more **dev.to** posts...][dev.to]
