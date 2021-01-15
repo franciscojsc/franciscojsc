@@ -57,11 +57,11 @@ These are my latest posts on my [Blog][website], [Projeto Kube][projetokube] and
 ### My Blog
 
 <!-- BLOG:START -->
+- [Informações do repositório Git com Onefetch](https://franciscochaves.com.br/blog/informacoes-do-repositorio-git-com-onefetch)
 - [Instale o Git no Xubuntu](https://franciscochaves.com.br/blog/instale-o-git-no-xubuntu)
 - [Movendo janela entre monitores no Xubuntu](https://franciscochaves.com.br/blog/movendo-janela-entre-monitores-no-xubuntu)
 - [Aumente sua produtividade no Xubuntu com o Ulauncher](https://franciscochaves.com.br/blog/aumente-sua-produtividade-no-xubuntu-com-o-ulauncher)
 - [Copie e Cole pelo terminal com Xclip](https://franciscochaves.com.br/blog/copie-e-cole-pelo-terminal-com-xclip)
-- [BC a calculadora do Bash](https://franciscochaves.com.br/blog/bc-a-calculadora-do-bash)
 <!-- BLOG:END -->
 
 ➡️ [more **blog** posts...][website]
