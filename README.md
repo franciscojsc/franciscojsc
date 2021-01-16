@@ -57,11 +57,11 @@ These are my latest posts on my [Blog][website], [Projeto Kube][projetokube] and
 ### My Blog
 
 <!-- BLOG:START -->
+- [Instale o navegador Google Chrome no Xubuntu](https://franciscochaves.com.br/blog/instale-o-navegador-google-chrome-no-xubuntu)
 - [Informações do repositório Git com Onefetch](https://franciscochaves.com.br/blog/informacoes-do-repositorio-git-com-onefetch)
 - [Instale o Git no Xubuntu](https://franciscochaves.com.br/blog/instale-o-git-no-xubuntu)
+- [Informações do seu hardware com Linux](https://franciscochaves.com.br/blog/informacoes-do-seu-hardware-com-linux)
 - [Movendo janela entre monitores no Xubuntu](https://franciscochaves.com.br/blog/movendo-janela-entre-monitores-no-xubuntu)
-- [Aumente sua produtividade no Xubuntu com o Ulauncher](https://franciscochaves.com.br/blog/aumente-sua-produtividade-no-xubuntu-com-o-ulauncher)
-- [Copie e Cole pelo terminal com Xclip](https://franciscochaves.com.br/blog/copie-e-cole-pelo-terminal-com-xclip)
 <!-- BLOG:END -->
 
 ➡️ [more **blog** posts...][website]
