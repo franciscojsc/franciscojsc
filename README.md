@@ -60,8 +60,8 @@ These are my latest posts on my [Blog][website], [Projeto Kube][projetokube] and
 - [Instale o navegador Google Chrome no Xubuntu](https://franciscochaves.com.br/blog/instale-o-navegador-google-chrome-no-xubuntu)
 - [Informações do repositório Git com Onefetch](https://franciscochaves.com.br/blog/informacoes-do-repositorio-git-com-onefetch)
 - [Instale o Git no Xubuntu](https://franciscochaves.com.br/blog/instale-o-git-no-xubuntu)
+- [Inverter palavra com JavaScript](https://franciscochaves.com.br/blog/inverter-palavra-com-javascript)
 - [Informações do seu hardware com Linux](https://franciscochaves.com.br/blog/informacoes-do-seu-hardware-com-linux)
-- [Movendo janela entre monitores no Xubuntu](https://franciscochaves.com.br/blog/movendo-janela-entre-monitores-no-xubuntu)
 <!-- BLOG:END -->
 
 ➡️ [more **blog** posts...][website]
