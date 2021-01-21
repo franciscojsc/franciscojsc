@@ -57,11 +57,11 @@ These are my latest posts on my [Blog][website], [Projeto Kube][projetokube] and
 ### My Blog
 
 <!-- BLOG:START -->
+- [Fórmula de Bhaskara em Python](https://franciscochaves.com.br/blog/formula-de-bhaskara-em-python)
 - [Fórmula de Bhaskara em JavaScript](https://franciscochaves.com.br/blog/formula-de-bhaskara-em-javascript)
 - [Instale o Azure Data Studio no Linux](https://franciscochaves.com.br/blog/instale-o-azure-data-studio-no-linux)
 - [Instale o VSCode no Xubuntu](https://franciscochaves.com.br/blog/instale-o-vscode-no-xubuntu)
 - [Instale o navegador Microsoft Edge no Xubuntu](https://franciscochaves.com.br/blog/instale-o-navegador-microsoft-edge-no-xubuntu)
-- [Instale o navegador Google Chrome no Xubuntu](https://franciscochaves.com.br/blog/instale-o-navegador-google-chrome-no-xubuntu)
 <!-- BLOG:END -->
 
 ➡️ [more **blog** posts...][website]
