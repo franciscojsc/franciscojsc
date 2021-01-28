@@ -81,11 +81,11 @@ These are my latest posts on my [Blog][website], [Projeto Kube][projetokube] and
 ### Dev Community
 
 <!-- DEVTO:START -->
+- [XML com Java](https://dev.to/franciscochaves/xml-com-java-2n34)
 - [Alterando o tema do NetBeans](https://dev.to/franciscochaves/alterando-o-tema-do-netbeans-5ce0)
 - [Fatorial em Java](https://dev.to/franciscochaves/fatorial-em-java-242p)
 - [Tabela HTML com as cores das linhas alternadas](https://dev.to/franciscochaves/tabela-html-com-as-cores-das-linhas-alternadas-ac)
 - [Tabelas em HTML](https://dev.to/franciscochaves/tabelas-em-html-2b8k)
-- [Esteganografia com Steghide](https://dev.to/franciscochaves/esteganografia-com-steghide-1jc1)
 <!-- DEVTO:END -->
 
 ➡️ [more **dev.to** posts...][dev.to]
