@@ -57,11 +57,11 @@ These are my latest posts on my [Blog][website], [Projeto Kube][projetokube] and
 ### My Blog
 
 <!-- BLOG:START -->
+- [Java no terminal com JShell](https://franciscochaves.com.br/blog/java-no-terminal-com-jshell)
 - [Armazene seus scripts em um local para acesso rápido](https://franciscochaves.com.br/blog/armazene-seus-scripts-em-um-local-para-acesso-rapido)
 - [Código da tecla pressionada em JavaScript](https://franciscochaves.com.br/blog/codigo-da-tecla-pressionada-em-javascript)
 - [Script para verificar conexão com a Internet](https://franciscochaves.com.br/blog/script-para-verificar-conexao-com-a-internet)
 - [Hipotenusa de um triângulo retângulo em Python](https://franciscochaves.com.br/blog/hipotenusa-de-um-triangulo-retangulo-em-python)
-- [Hipotenusa de um triângulo retângulo em JavaScript](https://franciscochaves.com.br/blog/hipotenusa-de-um-triangulo-retangulo-em-javascript)
 <!-- BLOG:END -->
 
 ➡️ [more **blog** posts...][website]
