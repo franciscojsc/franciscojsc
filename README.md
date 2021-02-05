@@ -57,11 +57,11 @@ These are my latest posts on my [Blog][website], [Projeto Kube][projetokube] and
 ### My Blog
 
 <!-- BLOG:START -->
+- [Conexão HTTP via Telnet](https://franciscochaves.com.br/blog/conexao-http-via-telnet)
 - [Crie aplicativos Express com o gerador](https://franciscochaves.com.br/blog/crie-aplicativos-express-com-o-gerador)
 - [Habilitar ou desabilitar o touchpad no Xubuntu](https://franciscochaves.com.br/blog/habilitar-ou-desabilitar-o-touchpad-no-xubuntu)
 - [Habilitar ou desabilitar o touchpad no Ubuntu](https://franciscochaves.com.br/blog/habilitar-ou-desabilitar-o-touchpad-no-ubuntu)
 - [Java no terminal com JShell](https://franciscochaves.com.br/blog/java-no-terminal-com-jshell)
-- [Armazene seus scripts em um local para acesso rápido](https://franciscochaves.com.br/blog/armazene-seus-scripts-em-um-local-para-acesso-rapido)
 <!-- BLOG:END -->
 
 ➡️ [more **blog** posts...][website]
