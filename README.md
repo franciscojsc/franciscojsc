@@ -57,11 +57,11 @@ These are my latest posts on my [Blog][website], [Projeto Kube][projetokube] and
 ### My Blog
 
 <!-- BLOG:START -->
+- [Encontre seu nome pelo terminal](https://franciscochaves.com.br/blog/encontre-seu-nome-pelo-terminal)
 - [Introdução ao Gulp](https://franciscochaves.com.br/blog/introducao-ao-gulp)
 - [Conexão HTTP via Telnet](https://franciscochaves.com.br/blog/conexao-http-via-telnet)
 - [Crie aplicativos Express com o gerador](https://franciscochaves.com.br/blog/crie-aplicativos-express-com-o-gerador)
 - [Habilitar ou desabilitar o touchpad no Xubuntu](https://franciscochaves.com.br/blog/habilitar-ou-desabilitar-o-touchpad-no-xubuntu)
-- [Habilitar ou desabilitar o touchpad no Ubuntu](https://franciscochaves.com.br/blog/habilitar-ou-desabilitar-o-touchpad-no-ubuntu)
 <!-- BLOG:END -->
 
 ➡️ [more **blog** posts...][website]
