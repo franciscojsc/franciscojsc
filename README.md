@@ -57,11 +57,11 @@ These are my latest posts on my [Blog][website], [Projeto Kube][projetokube] and
 ### My Blog
 
 <!-- BLOG:START -->
+- [Emoji no Ubuntu com o Emote](https://franciscochaves.com.br/blog/emoji-no-ubuntu-com-o-emote)
 - [Otimize suas imagens com Gulp e gulp-imagemin](https://franciscochaves.com.br/blog/otimize-suas-imagens-com-gulp-e-gulp-imagemin)
 - [Encontre seu nome pelo terminal](https://franciscochaves.com.br/blog/encontre-seu-nome-pelo-terminal)
 - [Introdução ao Gulp](https://franciscochaves.com.br/blog/introducao-ao-gulp)
 - [Conexão HTTP via Telnet](https://franciscochaves.com.br/blog/conexao-http-via-telnet)
-- [Crie aplicativos Express com o gerador](https://franciscochaves.com.br/blog/crie-aplicativos-express-com-o-gerador)
 <!-- BLOG:END -->
 
 ➡️ [more **blog** posts...][website]
