@@ -81,11 +81,11 @@ These are my latest posts on my [Blog][website], [Projeto Kube][projetokube] and
 ### Dev Community
 
 <!-- DEVTO:START -->
+- [Instale o Git no Xubuntu](https://dev.to/franciscochaves/instale-o-git-no-xubuntu-43eo)
 - [Informações do repositório Git com Onefetch](https://dev.to/franciscochaves/informacoes-do-repositorio-git-com-onefetch-12ln)
 - [Interfaces em Java](https://dev.to/franciscochaves/interfaces-em-java-ap)
 - [XML com Java](https://dev.to/franciscochaves/xml-com-java-2n34)
 - [Alterando o tema do NetBeans](https://dev.to/franciscochaves/alterando-o-tema-do-netbeans-5ce0)
-- [Fatorial em Java](https://dev.to/franciscochaves/fatorial-em-java-242p)
 <!-- DEVTO:END -->
 
 ➡️ [more **dev.to** posts...][dev.to]
