@@ -57,11 +57,11 @@ These are my latest posts on my [Blog][website], [Projeto Kube][projetokube] and
 ### My Blog
 
 <!-- BLOG:START -->
+- [Instale o SDKMAN no Xubuntu](https://franciscochaves.com.br/blog/instale-o-sdkman-no-xubuntu)
 - [Configure usuário e e-mail para o Git](https://franciscochaves.com.br/blog/configure-usuario-e-email-para-o-git)
 - [Instale o Yarn no Xubuntu](https://franciscochaves.com.br/blog/instale-yarn-no-xubuntu)
 - [Emoji no Ubuntu com o Emote](https://franciscochaves.com.br/blog/emoji-no-ubuntu-com-o-emote)
 - [Otimize suas imagens com Gulp e gulp-imagemin](https://franciscochaves.com.br/blog/otimize-suas-imagens-com-gulp-e-gulp-imagemin)
-- [Encontre seu nome pelo terminal](https://franciscochaves.com.br/blog/encontre-seu-nome-pelo-terminal)
 <!-- BLOG:END -->
 
 ➡️ [more **blog** posts...][website]
