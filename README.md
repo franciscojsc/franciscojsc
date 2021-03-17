@@ -57,11 +57,11 @@ These are my latest posts on my [Blog][website], [Projeto Kube][projetokube] and
 ### My Blog
 
 <!-- BLOG:START -->
+- [Instale o Groovy com SDKMAN](https://franciscochaves.com.br/blog/instale-o-groovy-com-sdkman)
 - [Instale o Maven com SDKMAN](https://franciscochaves.com.br/blog/instale-o-maven-com-sdkman)
 - [Instale o Java com SDKMAN](https://franciscochaves.com.br/blog/instale-o-java-com-sdkman)
 - [Instale o SDKMAN no Xubuntu](https://franciscochaves.com.br/blog/instale-o-sdkman-no-xubuntu)
 - [Configure usuário e e-mail para o Git](https://franciscochaves.com.br/blog/configure-usuario-e-email-para-o-git)
-- [Instale o Yarn no Xubuntu](https://franciscochaves.com.br/blog/instale-yarn-no-xubuntu)
 <!-- BLOG:END -->
 
 ➡️ [more **blog** posts...][website]
