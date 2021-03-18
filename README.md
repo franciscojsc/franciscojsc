@@ -81,11 +81,11 @@ These are my latest posts on my [Blog][website], [Projeto Kube][projetokube] and
 ### Dev Community
 
 <!-- DEVTO:START -->
+- [Copie e Cole pelo terminal com Xclip](https://dev.to/franciscochaves/copie-e-cole-pelo-terminal-com-xclip-27g5)
 - [BC a calculadora do Bash](https://dev.to/franciscochaves/bc-a-calculadora-do-bash-4n66)
 - [Tire PrintScreen pelo terminal no Linux](https://dev.to/franciscochaves/tire-printscreen-pelo-terminal-no-linux-4594)
 - [Diagrama de Classe na IDE Eclipse](https://dev.to/franciscochaves/diagrama-de-classe-na-ide-eclipse-52bo)
 - [Instale o Git no Xubuntu](https://dev.to/franciscochaves/instale-o-git-no-xubuntu-43eo)
-- [Informações do repositório Git com Onefetch](https://dev.to/franciscochaves/informacoes-do-repositorio-git-com-onefetch-12ln)
 <!-- DEVTO:END -->
 
 ➡️ [more **dev.to** posts...][dev.to]
