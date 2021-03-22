@@ -57,11 +57,11 @@ These are my latest posts on my [Blog][website], [Projeto Kube][projetokube] and
 ### My Blog
 
 <!-- BLOG:START -->
+- [Instale o Spring Boot CLI com SDKMAN](https://franciscochaves.com.br/blog/instale-o-spring-boot-cli-com-sdkman)
 - [Instale o Apache Spark com SDKMAN](https://franciscochaves.com.br/blog/instale-o-apache-spark-com-sdkman)
 - [Instale o Apache Tomcat com SDKMAN](https://franciscochaves.com.br/blog/instale-o-apache-tomcat-com-sdkman)
 - [Instale o Kotlin com SDKMAN](https://franciscochaves.com.br/blog/instale-o-kotlin-com-sdkman)
 - [Instale o Gradle com SDKMAN](https://franciscochaves.com.br/blog/instale-o-gradle-com-sdkman)
-- [Instale o Groovy com SDKMAN](https://franciscochaves.com.br/blog/instale-o-groovy-com-sdkman)
 <!-- BLOG:END -->
 
 ➡️ [more **blog** posts...][website]
