@@ -57,11 +57,11 @@ These are my latest posts on my [Blog][website], [Projeto Kube][projetokube] and
 ### My Blog
 
 <!-- BLOG:START -->
+- [Instale o NitroShare no Ubuntu](https://franciscochaves.com.br/blog/instale-o-nitroshare-no-ubuntu)
 - [Teste rápido com Spring Boot CLI](https://franciscochaves.com.br/blog/teste-rapido-com-spring-boot-cli)
 - [Olá mundo em Groovy](https://franciscochaves.com.br/blog/ola-mundo-em-groovy)
 - [Instale o Spring Boot CLI com SDKMAN](https://franciscochaves.com.br/blog/instale-o-spring-boot-cli-com-sdkman)
 - [Instale o Apache Spark com SDKMAN](https://franciscochaves.com.br/blog/instale-o-apache-spark-com-sdkman)
-- [Instale o Apache Tomcat com SDKMAN](https://franciscochaves.com.br/blog/instale-o-apache-tomcat-com-sdkman)
 <!-- BLOG:END -->
 
 ➡️ [more **blog** posts...][website]
