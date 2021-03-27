@@ -57,11 +57,11 @@ These are my latest posts on my [Blog][website], [Projeto Kube][projetokube] and
 ### My Blog
 
 <!-- BLOG:START -->
+- [Instale o Scene Builder para JavaFX no Xubuntu](https://franciscochaves.com.br/blog/instale-o-scene-builder-para-javafx-no-xubuntu)
 - [Instale Apache NetBeans IDE no Xubuntu](https://franciscochaves.com.br/blog/instale-apache-netbeans-ide-no-xubuntu)
 - [Instale o NitroShare no Ubuntu](https://franciscochaves.com.br/blog/instale-o-nitroshare-no-ubuntu)
 - [Teste rápido com Spring Boot CLI](https://franciscochaves.com.br/blog/teste-rapido-com-spring-boot-cli)
 - [Olá mundo em Groovy](https://franciscochaves.com.br/blog/ola-mundo-em-groovy)
-- [Instale o Spring Boot CLI com SDKMAN](https://franciscochaves.com.br/blog/instale-o-spring-boot-cli-com-sdkman)
 <!-- BLOG:END -->
 
 ➡️ [more **blog** posts...][website]
