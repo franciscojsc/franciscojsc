@@ -38,6 +38,7 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Instalação do GLPI com Docker Compose](https://www.youtube.com/watch?v=6mS4-UnOl_Y)
 - [http-server servidor leve e rápido](https://www.youtube.com/watch?v=mAaONs2E4V4)
 - [Notepad++ no Xubuntu com PlayOnLinux](https://www.youtube.com/watch?v=0b2zZV4OcUY)
 - [Docker para teste rápido](https://www.youtube.com/watch?v=ulpNlxgo7Tw)
