@@ -1,6 +1,9 @@
 ## Hi there <a href="https://franciscochaves.com.br"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 [![Website](https://img.shields.io/website?label=franciscochaves.com.br&style=for-the-badge&url=https://franciscochaves.com.br)](https://franciscochaves.com.br) [![counter](https://enlwssp2aca3wsc.m.pipedream.net)](https://github.com/franciscojsc)
+<a href="https://wakatime.com/@f1b15b8c-b250-433a-ad23-cc5e05cc371b">
+  <img width="240px" src="https://wakatime.com/badge/user/f1b15b8c-b250-433a-ad23-cc5e05cc371b.svg" alt="Total time coded since Oct 30 2017" />
+</a>
 
 [![Francisco Chaves][image-franciscochaves]][website]
 
