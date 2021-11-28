@@ -47,6 +47,9 @@
 
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=franciscojsc&show_icons=true&theme=nord" alt="franciscojsc's stats"/>
   <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscojsc&layout=compact&theme=nord" alt="franciscojsc's most languages"/>
+
+## ⚙️ &nbsp;Wakatime Analytics
+
   <img width="400em" src="https://github-readme-stats.vercel.app/api/wakatime?username=francisco&layout=compact&theme=nord" alt="franciscojsc's Wakatime"/>
 
 ---
