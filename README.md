@@ -75,11 +75,11 @@ These are my latest posts on my [Blog][website], [Projeto Kube][projetokube] and
 ### My Blog
 
 <!-- BLOG:START -->
+- [Fake API Rest com JSON Server](https://franciscochaves.com.br/blog/fake-api-rest-com-json-server)
 - [Instale o Insomnia no Xubuntu](https://franciscochaves.com.br/blog/instale-o-insomia-no-xubuntu)
 - [Instale o Postman no Xubuntu](https://franciscochaves.com.br/blog/instale-o-postman-no-xubuntu)
 - [Configure Scene Builder no Apache NetBeans IDE](https://franciscochaves.com.br/blog/configure-scene-builder-no-apache-netbeans-ide)
 - [Instale o Scene Builder para JavaFX no Xubuntu](https://franciscochaves.com.br/blog/instale-o-scene-builder-para-javafx-no-xubuntu)
-- [Instale Apache NetBeans IDE no Xubuntu](https://franciscochaves.com.br/blog/instale-apache-netbeans-ide-no-xubuntu)
 <!-- BLOG:END -->
 
 ➡️ [more **blog** posts...][website]
