@@ -99,11 +99,11 @@ These are my latest posts on my [Blog][website], [Projeto Kube][projetokube] and
 ### Dev Community
 
 <!-- DEVTO:START -->
+- [Hello World em TypeScript](https://dev.to/franciscochaves/hello-world-em-typescript-453o)
 - [Aumente sua produtividade no Xubuntu com o Ulauncher](https://dev.to/franciscochaves/aumente-sua-produtividade-no-xubuntu-com-o-ulauncher-4375)
 - [Copie e Cole pelo terminal com Xclip](https://dev.to/franciscochaves/copie-e-cole-pelo-terminal-com-xclip-27g5)
 - [BC a calculadora do Bash](https://dev.to/franciscochaves/bc-a-calculadora-do-bash-4n66)
 - [Tire PrintScreen pelo terminal no Linux](https://dev.to/franciscochaves/tire-printscreen-pelo-terminal-no-linux-4594)
-- [Diagrama de Classe na IDE Eclipse](https://dev.to/franciscochaves/diagrama-de-classe-na-ide-eclipse-52bo)
 <!-- DEVTO:END -->
 
 ➡️ [more **dev.to** posts...][dev.to]
