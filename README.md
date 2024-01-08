@@ -75,11 +75,11 @@ These are my latest posts on my [Blog][website], [Projeto Kube][projetokube] and
 ### My Blog
 
 <!-- BLOG:START -->
+- [Hello World em TypeScript](https://franciscochaves.com.br/blog/hello-world-em-typescript)
 - [Sticky Notes no Xubuntu](https://franciscochaves.com.br/blog/sticky-notes-no-xubuntu)
 - [Fake API Rest com JSON Server](https://franciscochaves.com.br/blog/fake-api-rest-com-json-server)
 - [Instale o Insomnia no Xubuntu](https://franciscochaves.com.br/blog/instale-o-insomia-no-xubuntu)
 - [Instale o Postman no Xubuntu](https://franciscochaves.com.br/blog/instale-o-postman-no-xubuntu)
-- [Configure Scene Builder no Apache NetBeans IDE](https://franciscochaves.com.br/blog/configure-scene-builder-no-apache-netbeans-ide)
 <!-- BLOG:END -->
 
 ➡️ [more **blog** posts...][website]
