@@ -75,11 +75,11 @@ These are my latest posts on my [Blog][website], [Projeto Kube][projetokube] and
 ### My Blog
 
 <!-- BLOG:START -->
-- [Gerador de Links para WhatsApp](https://franciscochaves.com.br/blog/gerador-de-links-para-whatsapp)
-- [Hello World em TypeScript](https://franciscochaves.com.br/blog/hello-world-em-typescript)
-- [Sticky Notes no Xubuntu](https://franciscochaves.com.br/blog/sticky-notes-no-xubuntu)
-- [Fake API Rest com JSON Server](https://franciscochaves.com.br/blog/fake-api-rest-com-json-server)
-- [Instale o Insomnia no Xubuntu](https://franciscochaves.com.br/blog/instale-o-insomia-no-xubuntu)
+- [Gerador de Links para WhatsApp](https://franciscochaves.com.br/blog/gerador-de-links-para-whatsapp/)
+- [Hello World em TypeScript](https://franciscochaves.com.br/blog/hello-world-em-typescript/)
+- [Sticky Notes no Xubuntu](https://franciscochaves.com.br/blog/sticky-notes-no-xubuntu/)
+- [Fake API Rest com JSON Server](https://franciscochaves.com.br/blog/fake-api-rest-com-json-server/)
+- [Instale o Insomnia no Xubuntu](https://franciscochaves.com.br/blog/instale-o-insomia-no-xubuntu/)
 <!-- BLOG:END -->
 
 ➡️ [more **blog** posts...][website]
