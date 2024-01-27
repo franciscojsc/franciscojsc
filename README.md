@@ -75,11 +75,11 @@ These are my latest posts on my [Blog][website], [Projeto Kube][projetokube] and
 ### My Blog
 
 <!-- BLOG:START -->
+- [Explorando o LocalStorage em JavaScript](https://franciscochaves.com.br/blog/explorando-o-localstorage-em-javascript/)
 - [Estrutura de Repetição em JavaScript](https://franciscochaves.com.br/blog/estrutura-de-repeticao-em-javascript/)
 - [Gerador de Links para WhatsApp](https://franciscochaves.com.br/blog/gerador-de-links-para-whatsapp/)
 - [Hello World em TypeScript](https://franciscochaves.com.br/blog/hello-world-em-typescript/)
 - [Sticky Notes no Xubuntu](https://franciscochaves.com.br/blog/sticky-notes-no-xubuntu/)
-- [Fake API Rest com JSON Server](https://franciscochaves.com.br/blog/fake-api-rest-com-json-server/)
 <!-- BLOG:END -->
 
 ➡️ [more **blog** posts...][website]
