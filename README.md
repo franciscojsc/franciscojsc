@@ -75,11 +75,11 @@ These are my latest posts on my [Blog][website], [Projeto Kube][projetokube] and
 ### My Blog
 
 <!-- BLOG:START -->
+- [Números Primos em Python](https://franciscochaves.com.br/blog/numeros-primos-em-python/)
 - [Números Primos em JavaScript](https://franciscochaves.com.br/blog/numeros-primos-em-javascript/)
 - [Explorando o LocalStorage em JavaScript](https://franciscochaves.com.br/blog/explorando-o-localstorage-em-javascript/)
 - [Estrutura de Repetição em JavaScript](https://franciscochaves.com.br/blog/estrutura-de-repeticao-em-javascript/)
 - [Gerador de Links para WhatsApp](https://franciscochaves.com.br/blog/gerador-de-links-para-whatsapp/)
-- [Hello World em TypeScript](https://franciscochaves.com.br/blog/hello-world-em-typescript/)
 <!-- BLOG:END -->
 
 ➡️ [more **blog** posts...][website]
