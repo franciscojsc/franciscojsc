@@ -75,11 +75,11 @@ These are my latest posts on my [Blog][website], [Projeto Kube][projetokube] and
 ### My Blog
 
 <!-- BLOG:START -->
+- [Conversor de Texto em Fala com JavaScript](https://franciscochaves.com.br/blog/conversor-de-texto-para-fala-com-javascript/)
 - [Números Primos em Python](https://franciscochaves.com.br/blog/numeros-primos-em-python/)
 - [Números Primos em JavaScript](https://franciscochaves.com.br/blog/numeros-primos-em-javascript/)
 - [Explorando o LocalStorage em JavaScript](https://franciscochaves.com.br/blog/explorando-o-localstorage-em-javascript/)
 - [Estrutura de Repetição em JavaScript](https://franciscochaves.com.br/blog/estrutura-de-repeticao-em-javascript/)
-- [Gerador de Links para WhatsApp](https://franciscochaves.com.br/blog/gerador-de-links-para-whatsapp/)
 <!-- BLOG:END -->
 
 ➡️ [more **blog** posts...][website]
