@@ -75,11 +75,11 @@ These are my latest posts on my [Blog][website], [Projeto Kube][projetokube] and
 ### My Blog
 
 <!-- BLOG:START -->
+- [Módulos em Node.js: Tipos, Diferenças e Exemplos Práticos](https://franciscochaves.com.br/blog/modulos-em-nodejs-tipos-e-diferencas/)
 - [Observe alterações em arquivos com Node.js –watch](https://franciscochaves.com.br/blog/nodejs-modo-watch-observe-alteracoes/)
 - [Instale o Flameshot no Windows 11](https://franciscochaves.com.br/blog/instale-o-flameshot-no-windows-11/)
 - [Instale o DbGate no Windows 11](https://franciscochaves.com.br/blog/instale-o-dbgate-no-windows-11/)
 - [SQL Server no Docker](https://franciscochaves.com.br/blog/sql-server-no-docker/)
-- [Conversor de Texto para Fala com JavaScript](https://franciscochaves.com.br/blog/conversor-de-texto-para-fala-com-javascript/)
 <!-- BLOG:END -->
 
 ➡️ [more **blog** posts...][website]
