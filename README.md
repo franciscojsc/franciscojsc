@@ -75,11 +75,11 @@ These are my latest posts on my [Blog][website], [Projeto Kube][projetokube] and
 ### My Blog
 
 <!-- BLOG:START -->
+- [cURL: Como Executar Requisições Longas com Arquivo de Configuração &lpar;-K&rpar;](https://franciscochaves.com.br/blog/curl-requisicoes-longas-com-arquivo-de-configuracao/)
 - [NPM: Como Criar e Publicar um Pacote](https://franciscochaves.com.br/blog/npm-como-criar-e-publicar-um-pacote/)
 - [Módulos em Node.js: Tipos, Diferenças e Exemplos Práticos](https://franciscochaves.com.br/blog/modulos-em-nodejs-tipos-e-diferencas/)
 - [Observe alterações em arquivos com Node.js –watch](https://franciscochaves.com.br/blog/nodejs-modo-watch-observe-alteracoes/)
 - [Instale o Flameshot no Windows 11](https://franciscochaves.com.br/blog/instale-o-flameshot-no-windows-11/)
-- [Instale o DbGate no Windows 11](https://franciscochaves.com.br/blog/instale-o-dbgate-no-windows-11/)
 <!-- BLOG:END -->
 
 ➡️ [more **blog** posts...][website]
